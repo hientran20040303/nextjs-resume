@@ -72,7 +72,6 @@ export default function Home() {
 
       <footer className="bg-[#006747] text-white py-8 text-center border-t-4 border-[#FDBB30]">
         <p className="font-medium">Hien Tran | University of South Florida</p>
-        <p className="text-xs opacity-70 mt-2">Built with Next.js & Tailwind CSS</p>
       </footer>
     </div>
   );
