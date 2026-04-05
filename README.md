@@ -1,4 +1,5 @@
 Hien Tran - Professional Resume
+
 A professional resume webpage built as part of my web development assignment using the Next.js App Router and Tailwind CSS.
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
