@@ -22,6 +22,25 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
+## Features implemented
+
+Resume Content in src/app/page.js
+
+→ All resume sections are written as JSX inside src/app/page.js.
+→ Content must be your real information — no Lorem Ipsum or placeholder text.
+→ Use semantic HTML elements (<header>, <main>, <section>, <footer>, etc.).
+
+Styling with Tailwind CSS
+
+→ All styling must be done with Tailwind CSS utility classes applied via className.
+→ Do not write custom CSS rules in globals.css — use Tailwind classes instead.
+→ The page must be visually styled — plain unstyled HTML is not acceptable.
+→ Layout should be clean and readable at a standard desktop viewport.
+
+No Errors
+
+→ The dev server starts with npm run dev and th
+
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
 ## Learn More
