@@ -60,7 +60,7 @@ export default function Home() {
             Skills & Competencies
           </h2>
           <div className="flex flex-wrap gap-3">
-            {['Statistical Modeling', 'Financial Analysis', 'Risk Assessment', 'Data Cleaning', 'Predictive Modeling', 'Actuarial Exam Preparation'].map((skill) => (
+            {['Statistical Modeling', 'Financial Analysis', 'Risk Assessment', 'Data Cleaning', 'Predictive Modeling'].map((skill) => (
               <span key={skill} className="bg-gray-100 text-[#006747] px-4 py-1 rounded-full border border-gray-200 text-sm font-medium">
                 {skill}
               </span>
