@@ -28,7 +28,7 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 - [x] All resume sections are written as JSX inside src/app/page.js.
 - [x] Content must be your real information — no Lorem Ipsum or placeholder text.
-- [x] Use semantic HTML elements (<header>, <main>, <section>, <footer>, etc.).
+- [x] Use semantic HTML elements (`<header>`, `<main>`, `<section>`, `<footer>`, etc.).
 
 ### Styling with Tailwind CSS
 
