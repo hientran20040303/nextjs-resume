@@ -1,4 +1,4 @@
-Hien Tran - Professional Resume
+## Hien Tran - Professional Resume
 
 A professional resume webpage built as part of my web development assignment using the Next.js App Router and Tailwind CSS.
 
