@@ -24,22 +24,27 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 ## Features implemented
 
-Resume Content in src/app/page.js
+### Resume Content in src/app/page.js
 
-→ All resume sections are written as JSX inside src/app/page.js.
-→ Content must be your real information — no Lorem Ipsum or placeholder text.
-→ Use semantic HTML elements (<header>, <main>, <section>, <footer>, etc.).
+- [x] All resume sections are written as JSX inside src/app/page.js.
+- [x] Content must be your real information — no Lorem Ipsum or placeholder text.
+- [x] Use semantic HTML elements (<header>, <main>, <section>, <footer>, etc.).
 
-Styling with Tailwind CSS
+### Styling with Tailwind CSS
 
-→ All styling must be done with Tailwind CSS utility classes applied via className.
-→ Do not write custom CSS rules in globals.css — use Tailwind classes instead.
-→ The page must be visually styled — plain unstyled HTML is not acceptable.
-→ Layout should be clean and readable at a standard desktop viewport.
+- [x] All styling must be done with Tailwind CSS utility classes applied via className.
+- [x] Do not write custom CSS rules in globals.css — use Tailwind classes instead.
+- [x] The page must be visually styled — plain unstyled HTML is not acceptable.
+- [x] Layout should be clean and readable at a standard desktop viewport.
 
-No Errors
+### No Errors
 
-→ The dev server starts with npm run dev and th
+- [x] The dev server starts with npm run dev and the page loads without errors.
+- [x] No errors in the browser console.
+
+## Limitations
+
+ Image must be manually updated
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
