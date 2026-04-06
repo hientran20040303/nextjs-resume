@@ -57,7 +57,7 @@ export default function Home() {
 
         <section className="mb-10">
           <h2 className="text-2xl font-bold text-[#006747] border-b-2 border-[#FDBB30] pb-2 mb-4 uppercase tracking-wide">
-            Skills & Competencies
+            Skills
           </h2>
           <div className="flex flex-wrap gap-3">
             {['Statistical Modeling', 'Financial Analysis', 'Risk Assessment', 'Data Cleaning', 'Predictive Modeling'].map((skill) => (
