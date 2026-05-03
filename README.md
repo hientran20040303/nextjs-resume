@@ -19,9 +19,9 @@ A high-performance, responsive resume web application built using the **Next.js 
 ## 🏃 How to Run Locally
 To get this project running on your local machine:
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/hientran20040303/nextjs-resume.git
+**Clone the repository:**
+```bash
+git clone https://github.com/hientran20040303/nextjs-resume.git
 
 ```bash
 npm run dev
