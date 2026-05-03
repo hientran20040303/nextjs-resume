@@ -1,12 +1,27 @@
-## Hien Tran - Professional Resume
+# Modern Professional Resume | Built with Next.js & Tailwind CSS
 
-A professional resume webpage built as part of my web development assignment using the Next.js App Router and Tailwind CSS.
+## 📌 Project Overview
+A high-performance, responsive resume web application built using the **Next.js App Router** framework. This project involved migrating a traditional HTML/CSS resume into a modern React-based environment, leveraging **Tailwind CSS** for a utility-first styling approach. The goal was to create a clean, accessible, and professional digital presence.
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 🚀 Technologies Used
+*   **Framework:** Next.js 14/15 (App Router)
+*   **Library:** React (JSX)
+*   **Styling:** Tailwind CSS (Utility-first framework)
+*   **Deployment:** Vercel / GitHub Pages
+*   **Icons/Fonts:** Standard semantic HTML typography
 
-## Getting Started
+## ✨ Key Features Implemented
+- [x] **Semantic HTML:** Utilized `<header>`, `<main>`, `<section>`, and `<footer>` for SEO and screen-reader accessibility.
+- [x] **Responsive Design:** Optimized for desktop and mobile viewing using Tailwind's layout utilities.
+- [x] **Modern Component Logic:** Structured content within a React functional component for better maintainability.
+- [x] **Zero Custom CSS:** 100% of the styling is handled via Tailwind utility classes, ensuring a lightweight and consistent design system.
 
-First, run the development server:
+## 🏃 How to Run Locally
+To get this project running on your local machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/hientran20040303/nextjs-resume.git
 
 ```bash
 npm run dev
