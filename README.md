@@ -21,7 +21,7 @@ To get this project running on your local machine:
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/hientran20040303/nextjs-resume.git
+git clone https://github.com/hientran20040303/nextjs-portfolio
 
 ```bash
 npm run dev
